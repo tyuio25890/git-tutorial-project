@@ -1,0 +1,22 @@
+# 編譯後的檔案 (垃圾)
+*.class
+*.log
+*.jar
+*.war
+
+# Maven 產生的資料夾 (垃圾)
+target/
+
+# IntelliJ IDEA 專屬設定 (絕對不能上傳)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse 專屬設定 (絕對不能上傳)
+.metadata
+bin/
+.settings/
+.classpath
+.project
